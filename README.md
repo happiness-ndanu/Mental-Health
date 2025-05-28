@@ -4,7 +4,7 @@ An interactive Shiny app that explores trends in mental health cases across Keny
 
 🔗 **Live App:** [Mental Health Dashboard](https://happinessndanu1.shinyapps.io/MentalHealth/)
 
-
+![](dashboard_mh.png)
 ---
 
 ## 📊 Features
