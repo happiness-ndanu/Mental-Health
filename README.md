@@ -43,7 +43,7 @@ This app was developed to:
 
 ```r
 # Clone the repository
-git clone https://github.com/happiness-ndanu/MentalHealth.git
+git clone https://github.com/happiness-ndanu/Mental-Health.git
 
 # Navigate into the folder
 setwd("MentalHealth")
